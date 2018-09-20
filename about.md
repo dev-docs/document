@@ -10,21 +10,21 @@ FullStack Developer
 
 ### <u>SKILL</u>
 
-&nbsp;&nbsp; Java, Jsp, struts, spring, boot, egov, mybatis, hibernate
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java, Jsp, Struts, Spring, Boot, Egov, mybatis, Hibernate
 
-&nbsp;&nbsp; javascript, jquery, electron, node, angular, react, react-native, vue 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Javascript, Jquery, Electron, Node Angular, React, React-native, vue 
 
-&nbsp;&nbsp; Mobile : Android, swift 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile : Android, Swift 
 
-&nbsp;&nbsp; CI : Jenkens 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CI : Jenkens 
 
-&nbsp;&nbsp; Server : amazone web service, unix 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Server : Amazone Web Service, unix 
 
-&nbsp;&nbsp; database : oracle, mysql, mssql 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DataBase : Oracle, Mysql, Mssql 
 
-&nbsp;&nbsp; Issue Tracking System : jira, redmine  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Tracking System : Jira, Redmine  
 
-&nbsp;&nbsp;web application server : apache tomcat, jboss, websphere, oracle web logic 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web Application Server : Apache Tomcat, JBOSS, WebSphere, Oracle Web Logic 
 
 
 
@@ -45,5 +45,5 @@ FullStack Developer
 
 ### <u>ETC.</u>
 
-mail : dev-docs@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mail : dev-docs@gmail.com
 
