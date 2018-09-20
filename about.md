@@ -4,29 +4,29 @@ title: About
 permalink: /about/
 ---
 
-### **PROFILE**
+# <u>PROFILE</u> 
 
 FullStack Developer 
 
 ### <u>SKILL</u>
 
-	Java, Jsp, struts, spring, boot, egov, mybatis, hibernate <br/>
+Java, Jsp, struts, spring, boot, egov, mybatis, hibernate
 
-	javascript, jquery, electron, node, angular, react, react-native, vue 
+javascript, jquery, electron, node, angular, react, react-native, vue 
 
-	Mobile : Android, swift 
+Mobile : Android, swift 
 
-	CI : Jenkens 
+CI : Jenkens 
 
-	Server : amazone web service, unix 
+Server : amazone web service, unix 
 
-	database : oracle, mysql, mssql 
+database : oracle, mysql, mssql 
 
-	Issue Tracking System : jira, redmine  
+Issue Tracking System : jira, redmine  
 
-	web application server : apache tomcat, jboss, websphere, oracle web logic 
+web application server : apache tomcat, jboss, websphere, oracle web logic 
 
-	source control : github, svn
+
 
 ### <u>PROJECT</u> 
 
