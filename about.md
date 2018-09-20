@@ -10,7 +10,7 @@ FullStack Developer
 
 ### <u>SKILL</u>
 
-	Java, Jsp, struts, spring, boot, egov, mybatis, hibernate
+	Java, Jsp, struts, spring, boot, egov, mybatis, hibernate <br/>
 
 	javascript, jquery, electron, node, angular, react, react-native, vue 
 
