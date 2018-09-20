@@ -10,21 +10,21 @@ FullStack Developer
 
 ### <u>SKILL</u>
 
-Java, Jsp, struts, spring, boot, egov, mybatis, hibernate
+&nbsp;&nbsp; Java, Jsp, struts, spring, boot, egov, mybatis, hibernate
 
-javascript, jquery, electron, node, angular, react, react-native, vue 
+&nbsp;&nbsp; javascript, jquery, electron, node, angular, react, react-native, vue 
 
-Mobile : Android, swift 
+&nbsp;&nbsp; Mobile : Android, swift 
 
-CI : Jenkens 
+&nbsp;&nbsp; CI : Jenkens 
 
-Server : amazone web service, unix 
+&nbsp;&nbsp; Server : amazone web service, unix 
 
-database : oracle, mysql, mssql 
+&nbsp;&nbsp; database : oracle, mysql, mssql 
 
-Issue Tracking System : jira, redmine  
+&nbsp;&nbsp; Issue Tracking System : jira, redmine  
 
-web application server : apache tomcat, jboss, websphere, oracle web logic 
+&nbsp;&nbsp;web application server : apache tomcat, jboss, websphere, oracle web logic 
 
 
 
