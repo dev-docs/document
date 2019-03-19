@@ -1,9 +1,10 @@
+
 body {
-  font-family: "Roboto Condensed", Arial, sans-serif;
+  font-family: "Noto Sans", "Noto Sans CJK kr";
   background: url("/static/img/subtle_dots.png");
-  line-height: 1.5em;
+  line-height: 1.8;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 10px;
   color: #666;
 }
 hr {
@@ -169,4 +170,17 @@ div.col-sm-3 img.profile-avatar {
   div.col-sm-3 {
     margin-top: 30px;
   }
+}
+
+blockquote p,
+ol li p,
+ul li p,
+pre {
+    font-size: 10pt;
+}
+
+pre {
+    font-family: "Consolas";
+    line-height: 1.8;
+    font-size: 10pt;
 }
