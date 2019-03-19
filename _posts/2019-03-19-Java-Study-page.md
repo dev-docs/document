@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Create GitHub Page"
-date:   2018-12-29 18:34:10 +0700
-categories: [python, django]
+title:  "Java Study"
+date:   2019-03-19 18:34:10 +0700
+categories: []
 ---
 
 
