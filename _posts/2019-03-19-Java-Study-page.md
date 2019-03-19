@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java Study"
+title:  "java study"
 date:   2019-03-19 18:34:10 +0700
 categories: [group]
 ---
