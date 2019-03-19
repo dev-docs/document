@@ -43,9 +43,9 @@ permalink: /about/
 11. Samsung Key Management System 
 12. HRD Korea Management Information System 
 13. 기획재정부 국고보조금 인터페이스 연계 시스템 구축
-14. 두산그룹 전자무역시스템 구축 
-15. 대림그룹 전자무역시스템 구축 
-16. 하나그룹 공인전자문서시스템 고도화 프로젝트
+14. 두산 전자무역 SAP 인터페이스 시스템 구축 
+15. 대림산업 전자무역 SAP 인터페이스 시스템 구축 
+16. 하나카드 공인전자문서시스템 고도화 프로젝트
 
 
 
