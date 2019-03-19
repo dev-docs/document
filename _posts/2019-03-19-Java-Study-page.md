@@ -2,7 +2,7 @@
 layout: post
 title:  "Java Study"
 date:   2019-03-19 18:34:10 +0700
-categories: []
+categories: [group]
 ---
 
 
