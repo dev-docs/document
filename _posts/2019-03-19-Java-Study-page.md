@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java Quiz"
+title:  "Java Study"
 date:   2019-03-29 18:34:10 +0700
 categories: [STUDY, JAVA]
 ---
