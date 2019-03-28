@@ -1,17 +1,11 @@
 ---
 layout: post
-title:  "자바스터디 구인"
+title:  "JAVA STUDY"
 date:   2019-03-19 18:34:10 +0700
-categories: [group]
+categories: [STUDY, JAVA]
 ---
 
-### 자바스터디 구인 
-
-
-
-
-
-#### 자바 스터디 
+### JAVA STUDY
 
 ##### 자바스터디 인원을 모집 합니다.
 
