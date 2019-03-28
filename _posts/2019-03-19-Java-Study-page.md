@@ -5,8 +5,6 @@ date:   2019-03-19 18:34:10 +0700
 categories: [STUDY, JAVA]
 ---
 
-### JAVA STUDY
-
 ##### 자바스터디 인원을 모집 합니다.
 
 
@@ -75,5 +73,3 @@ categories: [STUDY, JAVA]
 1. SVN 버전 관리 를 통해서 서로에게 소스를 공유할 예정 
 
 2. SVN 서버 제공 
-
-##### HONG ~ !
