@@ -46,7 +46,8 @@ permalink: /about/
 14. 두산 전자무역 SAP 인터페이스 시스템 구축 
 15. 대림산업 전자무역 SAP 인터페이스 시스템 구축 
 16. 하나카드 공인전자문서시스템 고도화 프로젝트
-
+17. KT MHOWS GIFTISHOW 프로젝트
+18. SHD RPOJECT
 
 
 
